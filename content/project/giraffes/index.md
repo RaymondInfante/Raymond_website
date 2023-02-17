@@ -1,25 +1,19 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+author: Raymond Infante
+
+date: "2022-06-10"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: On the [Bio-optical Laboratory](http://bio-optics.uprm.edu/) our team is studying if Planet new high resolutions satellites can be used for coastal Ocean Color studies. 
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle:
 tags:
 - hugo-site
-title: Tachyons for Style
+title: Ocean Color with Planet Satellites 
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+![Tachyons Logo Script](Planet_SuperDove.jpeg)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## [Planet Scope](https://www.planet.com/?gclid=EAIaIQobChMIqrmrgL6b_QIVIoJaBR0bDATNEAAYASAAEgLKqfD_BwE) Is a private company that provides daily satellites data at high resolutions >3m
 
 ---
 
