@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-In this website you can find information on my currents projects, contact and some photographs. 
+In this website you can find information on my currents projects, and contact informations 
 

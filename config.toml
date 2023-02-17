@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩blo
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 5
-preserveTaxonomyNames = true
+preserveTaxonomyNames = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
 
@@ -113,11 +113,6 @@ enableEmoji = true
     weight = 3
     
   # Configure footer  
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
