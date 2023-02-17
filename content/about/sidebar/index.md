@@ -11,8 +11,8 @@ link_list:
   url: https://www.uprm.edu/cima/
 - name: Laboratory
   url: http://bio-optics.uprm.edu/
-- name: R coding
-  url: https://posit.co/
+- name: Code
+  url: https://github.com/RaymondInfante
 ---
 
 ** index doesn't contain a body, just front matter above.
