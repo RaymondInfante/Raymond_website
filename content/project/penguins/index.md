@@ -25,7 +25,7 @@ Additionally, it's been demonstrated that Pelagic Sargassum can accumulated micr
 
 Sargassum travels the Caribbean from Africa, thanks to wind and ocean currents. 
 
-Here some pictures of the accumulation of Sargassum in the west side (Isla Cueva) of La Parguera Natioanl Reserve. 
+Here some pictures of the accumulation of Sargassum in the west side (Isla Cueva) of La Parguera National Reserve. 
 
 ![Sargassum in Isla cueva](Drone.jpeg)
 ![Sargassum](Drone2.jpg)
