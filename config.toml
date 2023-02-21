@@ -111,7 +111,6 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-    
   # Configure footer  
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
