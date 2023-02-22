@@ -93,7 +93,10 @@ enableEmoji = true
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/raymond_infante310/"
-
+  [[params.social]]
+      icon      = "solid receipt" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = "https://www.instagram.com/raymond_infante310/"
 [taxonomies]
   category = "categories"
   series = "series"
