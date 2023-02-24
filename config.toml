@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A Biological Oceanographer"
   favicon = "Image/microscope-solid.svg"
   logo = "Image/earth-oceania-solid.svg"
-  mainSections = ["project","contact"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
