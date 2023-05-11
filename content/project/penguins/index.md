@@ -6,7 +6,7 @@ categories:
 - package
 date: "2022-08-01"
 draft: false
-excerpt: According to ... Pelagic Sargassum have the ability to accumulate microplastics due to they share the same mechanisms of displacement on the oceans. 
+excerpt: 
 featured: true
 layout: single
 subtitle: ""
