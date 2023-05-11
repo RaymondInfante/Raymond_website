@@ -12,14 +12,14 @@ layout: single
 subtitle: ""
 tags:
 - hugo-site
-title: Possible Sargassum Contamination of Microplastics
+title: Predicting Sargassum Accumulation in the South of Puerto Rico
 ---
 
-### Pelagic Sargassum accumulates microplastics in the ocean
+### Predicting Sargassum Accumulation in the South of Puerto Rico
 
 Pelagic Sargassum (*Sargassum fluitans* and *Sagrasum natans*) is a genus of brown algae, prevalent in the tropical latitudes. Since 2011, during late spring and summer high ammount accumulates on coastal areas of the Caribbean (Prakash et al, 2018). This algae tends to discompose in high concentrations bringing ecological and economical losses to the Caribbean Islands. 
 
-Additionally, it's been demonstrated that Pelagic Sargassum can accumulated microplastics (Carpenter and Smith, 1972). My hypothesis is that, due to bio fouling and water physics (Zhang, 2017), sargassum plastics could be separating from the sargassum patches and sinking trough the water column, contaminating the area it passes, putting in danger different ocean ecosystems. 
+This project is trying to create a machine learning model that predict the arrival of Pelagic Sargassum in the Southerly Coastal Water of Puerto Rico. 
 
 ---
 
